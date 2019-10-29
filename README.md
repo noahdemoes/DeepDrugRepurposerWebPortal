@@ -1,2 +1,2 @@
-# DeepDrugRepurposerWebPortal
-Second semester project
+# Deep Drug Repurposer Web Portal
+
